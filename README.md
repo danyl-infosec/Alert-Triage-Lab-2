@@ -5,7 +5,6 @@
 ## Objective
 Investigate a high‑priority alert triggered by an employee attempting to access a blacklisted external URL, validate authenticity using threat intelligence checks, and determine whether escalation is required.
 
-![image alt](https://raw.githubusercontent.com/danyl-infosec/Malicious-URL-Alert-Triage-Lab/refs/heads/main/Lab%202%20Screenshot%20(1).png)
 ---
 
 ## Step 1 – Identify Highest Priority Alert
