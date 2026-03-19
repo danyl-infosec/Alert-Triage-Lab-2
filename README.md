@@ -47,4 +47,6 @@ Investigate a high‑priority alert triggered by an employee attempting to acces
 - Escalation: **Not required**, as no impact or follow‑up activity was observed.  
 - Closed the alert at Tier 1.  
 
+![Lab 2 Screenshot](https://raw.githubusercontent.com/danyl-infosec/Alert-Triage-Lab-2/refs/heads/main/Lab%202%20Screenshot%204.png)
+
 ---
