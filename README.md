@@ -35,6 +35,8 @@ Investigate a high‑priority alert triggered by an employee attempting to acces
 
 ![Lab 2 Screenshot](https://raw.githubusercontent.com/danyl-infosec/Alert-Triage-Lab-2/refs/heads/main/Lab%202%20Screenshot%205.png)
 
+![Lab 2 Screenshot](https://raw.githubusercontent.com/danyl-infosec/Alert-Triage-Lab-2/refs/heads/main/Lab%202%20Screenshot%203.png)
+
 ---
 
 ## Step 4 – Analyst Actions
