@@ -1,5 +1,3 @@
-# Alert-Triage-and-Escalation-Lab-2-
-
 # Malicious-URL-Alert-Triage-Lab
 
 ## Objective
