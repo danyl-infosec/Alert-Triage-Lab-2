@@ -24,7 +24,7 @@ Investigate a high‑priority alert triggered by an employee attempting to acces
 - The firewall successfully blocked the request, preventing the connection.  
 
 ### Actions Taken
-- Scanned the blocked URL using *TryDetecThis* (in a real‑world setting I would use VirusTotal or AnyRun). The results confirmed the URL was malicious.  
+- Scanned the blocked URL using *TryDetectThis* (in a real‑world setting I would use VirusTotal or AnyRun). The results confirmed the URL was malicious.  
 - Checked the source IP against company records to identify the user. The activity was traced to **Hannah Harris (HR Department)**.  
 - Queried ELK SIEM logs using the source IP to review activity around the time of the alert.  
   - Before the attempt: browsing business‑related topics (e.g., payroll systems).  
