@@ -8,7 +8,9 @@ Investigate a high‑priority alert triggered by an employee attempting to acces
 ## Step 1 – Identify Highest Priority Alert
 - Reviewed unassigned alerts in the SOC queue.  
 - Found two medium alerts and one high alert.  
-- Selected the **high alert** due to priority.  
+- Selected the **high alert** due to priority.
+
+![Lab 2 Screenshot](https://raw.githubusercontent.com/danyl-infosec/Alert-Triage-Lab-2/refs/heads/main/Lab%202%20Screenshot%201.png)
 
 ---
 
